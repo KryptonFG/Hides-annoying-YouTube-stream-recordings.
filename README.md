@@ -2,7 +2,7 @@
 
 Для работы надо скачать [Violentmonkey](https://github.com/violentmonkey/violentmonkey) или [Tampermonkey](https://github.com/Tampermonkey/tampermonkey)
 
-Можно просто перейти на [GresyFork](https://greasyfork.org/ru) и нажать на [установить](chrome-extension://jinjaccalgkegednnccohejagnlnfdag/confirm/index.html#VMr8p29gmrm1m) или же скопировать код ниже
+Можно просто перейти на [GresyFork]([https://greasyfork.org/ru](https://greasyfork.org/ru/scripts/540383-%D1%81%D0%BA%D1%80%D1%8B%D1%82%D1%8C-%D0%B7%D0%B0%D0%BF%D0%B8%D1%81%D0%B8-%D1%82%D1%80%D0%B0%D0%BD%D1%81%D0%BB%D1%8F%D1%86%D0%B8%D0%B9-%D0%BD%D0%B0-youtube/code)) и нажать на [установить](chrome-extension://jinjaccalgkegednnccohejagnlnfdag/confirm/index.html#VMr8p29gmrm1m) или же скопировать код ниже
 
 ```
 // ==UserScript==
